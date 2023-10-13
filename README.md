@@ -76,24 +76,14 @@
 
 1. **경쟁사 분석**
 - 주요 경쟁사
-    
-    ![마켓 포지셔닝 - 1.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/c47983f3-6ae3-4ae5-8264-d1439c662205/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%86%BA_%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%84%82%E1%85%B5%E1%86%BC_-_1.jpg)
-    
-
 
 
 - 경쟁사·벤치마킹사 UXUI 분석
     - 선정 이유
-        
-        ![경쟁사 & 벤치마킹사 선정.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/f024c091-27e5-4569-84bf-0142f278323b/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1__%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B5%E1%86%BC%E1%84%89%E1%85%A1_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC.jpg)
-        
+![경쟁사 & 벤치마킹사 선정.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/f024c091-27e5-4569-84bf-0142f278323b/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1__%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%86%E1%85%A1%E1%84%8F%E1%85%B5%E1%86%BC%E1%84%89%E1%85%A1_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC.jpg)
     - 배달K
         
-        ![배달K_경쟁사UI.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/6ab85866-d02a-4cec-9192-57b39aaf7a3e/%E1%84%87%E1%85%A2%E1%84%83%E1%85%A1%E1%86%AFK_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1UI.png)
-        
     - 팔도감
-        
-        ![팔도감_UXUI.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/a3d16a8d-00f0-420e-971b-f2b7ff78c729/%E1%84%91%E1%85%A1%E1%86%AF%E1%84%83%E1%85%A9%E1%84%80%E1%85%A1%E1%86%B7_UXUI.png)
         
 
 - 경쟁사·벤치마킹사 대비 자사 기능 분석
