@@ -1,10 +1,10 @@
 # 🍱집밥도착🍱
 
 ---
+<img width="1920" alt="KakaoTalk_Photo_2023-10-13-19-49-48" src="https://github.com/28th-meetup/28th_semi_README/assets/113451739/77557f31-9fd6-430b-ab28-2e5e51e849bc">
 
-![집밥도착 서비스 이미지_최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/f92d20c3-6ad6-4dff-88ea-fd9425b19b3d/%EC%A7%91%EB%B0%A5%EB%8F%84%EC%B0%A9_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%B5%9C%EC%A2%85.png)
 
-![집밥도착 OVERVIEW_최종.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/0b064517-8a48-4325-836b-21daeb6727d7/%EC%A7%91%EB%B0%A5%EB%8F%84%EC%B0%A9_OVERVIEW_%EC%B5%9C%EC%A2%85.png)
+<img width="1920" alt="KakaoTalk_Photo_2023-10-13-19-50-26" src="https://github.com/28th-meetup/28th_semi_README/assets/113451739/d249792b-df3c-403b-99de-d43172ee3bcd">
 
 ### 서비스 소개
 
@@ -80,18 +80,7 @@
     ![마켓 포지셔닝 - 1.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/198f0e8f-ce1f-4810-aff9-6459de678679/c47983f3-6ae3-4ae5-8264-d1439c662205/%E1%84%86%E1%85%A1%E1%84%8F%E1%85%A6%E1%86%BA_%E1%84%91%E1%85%A9%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A7%E1%84%82%E1%85%B5%E1%86%BC_-_1.jpg)
     
 
-- 작성 아이데이션 **(깃에 옮기지 마세요)**
-    - 직접 조리 - (한식 식료품) Weee 등
-    - (가운데) - **만나반찬, 인스타그램/카톡 반찬업체 +** (배달K)
-    - 외식 - (음식) 도어대시, 우버이츠 등등 … + **배달K**
-    
-    - 직접적인 경쟁사
-        - **배달K**
-    - 기존 배달플랫폼
-        - (음식) 도어대시, 우버이츠 등등 …
-        - (한식 식료품) Weee,
-    - *영세한 한식 독립 배달업체*
-        - 만나반찬, 인스타그램/카톡 반찬업체
+
 
 - 경쟁사·벤치마킹사 UXUI 분석
     - 선정 이유
