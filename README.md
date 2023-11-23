@@ -371,6 +371,12 @@
 <br />
 
 
+## 🖥️ Entity-Relationship Diagram
+
+<img width="1034" alt="erd 최종" src="https://github.com/28th-meetup/28th_semi_README/assets/81168401/a2452b11-3d2d-4be1-ac78-f7392a586e4a">
+
+
+
 ## 🖥️ 커밋컨벤션
 
 
