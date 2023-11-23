@@ -295,7 +295,8 @@
 ## 🖥️ 시스템 아키텍처
 
 
-![아키텍쳐1](https://github.com/kusitms-com/28th_Semi_README/assets/81168401/dd3abbcf-1b4c-418e-9758-f9ed845ed384)
+![image](https://github.com/28th-meetup/28th_semi_README/assets/81168401/5cfef6a5-184a-4918-a645-04423d03a457)
+
 
 <br />
 
@@ -309,6 +310,7 @@
 - ![Java 17](https://img.shields.io/badge/Java%2017-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=springsecurity&logoColor=white)
   ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![Spring Stomp](https://img.shields.io/badge/Spring%20Stomp-003545?style=flat-square&logo=Spring%20Stomp&logoColor=white)
 - ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![QueryDSL](https://img.shields.io/badge/QueryDSL-007ACC?style=flat-square&logo=kotlin&logoColor=white)
   ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
@@ -333,12 +335,12 @@
     - **kakao** - 카카오 소셜 로그인을 구현하기 위함
     - **databinding** - 레이아웃과 클래스를 쉽게 연결하기 위함
 - **서버**
-    - **springboot** - 효율적인 웹 애플리케이션 개발 관리를 위함
-    - **spring data jpa** - 데이터베이스 액세스를 단순화하기 위함
-    - **gradle** - 효율적인 빌드 및 종속성 관리를 위함
-    - **swagger** - API 문서화와 테스트를 간편하게 수행하기 위함
+    - **springboot** - 안정성, 확장성, 생산성을 고려하여 개발을 쉽게 하고 유지보수할 수 있는 웹 애플리케이션을 빠르게 구축
+    - **spring data jpa** - ORM기술을 사용하여 데이터베이스 액세스 단순화, 객체지향적 데이터베이스 연동
+    - **gradle** - 간결하고 유연한 빌드 스크립트를 제공하여 의존성 관리와 빌드 프로세스를 효과적으로 관리
+    - **swagger** - API 문서화와 간편한 테스트 수행
     - **jwt** - 보안 강화를 위한 인증 및 권한 부여 매커니즘으로 사용
-    - **gihtub actions** - 지속적인 통합 및 배포 자동화 구축을 하기 위함
+    - **gihtub actions** - aws s3, ec2, codedeploy와 함께 사용하여 지속적인 통합 및 배포 자동화 구축
 - **협업툴**
     - notion, discord, slack
 
